@@ -41,8 +41,8 @@ The analysis of the election show that:
 - The largest county turnout was:
     - County Denver which received "82.8"% of the vote and "306,055" number of votes.
     
-![Terminal result:](Resources/Terminal_result.png)
-![election analysistxt:](Resources/election_analysistxt.png)
+![Terminal result:](Election_Analysis/Terminal_result.png)
+![election analysistxt:](Election_Analysis/election_analysistxt.png)
 
 ## Election_Audit Summary
 The scrip of Election_Audit can be used for any other election as we created list and dictionary for each row of vote details, candidates and counties.
