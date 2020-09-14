@@ -42,6 +42,7 @@ The analysis of the election show that:
     - County Denver which received "82.8"% of the vote and "306,055" number of votes.
     
 ![Terminal result:](Resourses/Terminal_result.png)
+
 ![election analysistxt:](Resourses/election_analysistxt.png)
 
 ## Election_Audit Summary
