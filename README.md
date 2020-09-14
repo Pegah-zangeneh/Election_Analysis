@@ -46,4 +46,4 @@ The analysis of the election show that:
 
 ## Election_Audit Summary
 The scrip of Election_Audit can be used for any other election as we created list and dictionary for each row of vote details, candidates and counties.
-with any other csv.file we can use this scrip with a little change in index number or printed texts.
+with any other csv.file we can use this scrip with a little change in  index number or printed texts.
